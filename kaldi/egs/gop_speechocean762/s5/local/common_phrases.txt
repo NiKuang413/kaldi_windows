@@ -1,0 +1,27 @@
+# Common words for pronunciation assessment
+# Format: One phrase per line, uppercase recommended
+# Lines starting with # are comments
+# Empty lines are ignored
+
+# Single words
+APPLE
+NOVEMBER
+HELLO
+JACKET
+LAMP
+TODAY
+UMBRELLA
+YOGURT
+
+# Common phrases
+WHAT IS YOUR NAME
+HOW ARE YOU
+GOOD MORNING
+THANK YOU
+PLEASE
+YES
+NO
+
+# Note: For phrases with punctuation like "What's your name?"
+# Remove punctuation and use: WHAT IS YOUR NAME
+# The script will normalize text to uppercase automatically
